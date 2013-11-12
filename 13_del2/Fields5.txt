@@ -1,0 +1,118 @@
+	type::Start;;
+	x::10;; 
+	y::10;;
+	backgroundColor::255,,0,,0;;
+	foregroundColor::0,,0,,0;;
+	title::START;; 
+	subText::Modtag: 200;; 
+	description::Modtag kr. 200,-\nnår de passerer start;;
+||		
+	type::Street;;
+	x::9;; 
+	y::10;;
+	backgroundColor::110,,110,,110;;
+	foregroundColor::0,,0,,0;;
+	title::Tower;; 
+	subText::Point:	+250;; 
+	description::Tower;;
+	leje::Leje +250;;
+||	
+	type::Street;;
+	x::8;; 
+	y::10;;
+	backgroundColor::141,,18,,34;;
+	foregroundColor::0,,0,,0;;
+	title::Crater;; 
+	subText::Point:	-200;; 
+	description::Crater;;
+	leje::Leje -200;;
+||	
+	type::Street;;
+	x::7;; 
+	y::10;;
+	backgroundColor::75,,155,,225;;
+	foregroundColor::0,,0,,0;;
+	title::Palace gates;; 
+	subText::Point:	-100;; 
+	description::Palace gates;;
+	leje::Leje -100;;
+||	
+	type::Street;;
+	x::6;; 
+	y::10;;
+	backgroundColor::0,,0,,255;;
+	foregroundColor::255,,255,,255;;
+	title::Cold Desert;; 
+	subText::Point:	-20;; 
+	description::Cold Desert;;
+	leje::Leje -20;;
+||	
+	type::Street;;
+	x::5;; 
+	y::10;;
+	backgroundColor::14,,148,,54;;
+	foregroundColor::0,,0,,0;;
+	title::Walled city;; 
+	subText::Point:	+180;; 
+	description::Walled City;;
+	leje::Leje +180;
+||	
+	type::Street;;
+	x::4;; 
+	y::10;;
+	backgroundColor::110,,108,,107;;
+	foregroundColor::0,,0,,0;;
+	title::Monastery;; 
+	subText::Point:	0;; 
+	description::Monastery;;
+	leje::Leje 0;
+||	
+	type::Street;;
+	x::3;; 
+	y::10;;
+	backgroundColor::0,,0,,0;;
+	foregroundColor::255,,255,,255;;
+	title::Black cave;; 
+	subText::Point:	-70;; 
+	description::Black cave;;
+	leje::Leje -70;
+||	
+	type::Street;;
+	x::2;; 
+	y::10;;
+	backgroundColor::166,,81,,31;;
+	foregroundColor::0,,0,,0;;
+	title::Huts in the mountain;; 
+	subText::Point:	-60;; 
+	description::Huts in the mountain;;
+	leje::Leje -60;
+||	
+	type::Street;;
+	x::1;; 
+	y::10;;
+	backgroundColor::247,,15,,237;;
+	foregroundColor::0,,0,,0;;
+	title::The Wearwall;; 
+	subText::Point:	-80;; 
+	description::The Wearwall;;
+	leje::Leje -80;
+||	
+	type::Street;;
+	x::0;; 
+	y::10;;
+	backgroundColor::0,,0,,0;;
+	foregroundColor::255,,255,,255;;
+	title::The pit;; 
+	subText::Point:	-90;; 
+	description::The pit;;
+	leje::Leje -90;
+||	
+	type::Street;;
+	x::0;; 
+	y::9;;
+	backgroundColor::255,,215,,0;;
+	foregroundColor::0,,0,,0;;
+	title::Goldmine;; 
+	subText::Point:	+650;; 
+	description::Goldmine;;
+	leje::Leje +650;
